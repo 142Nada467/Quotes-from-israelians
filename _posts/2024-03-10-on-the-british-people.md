@@ -1,9 +1,11 @@
 ---
 layout: post
 author:
-- Ben Gvir 
+- Aryeh Eldad
+- Michael Ben-Ari
 ---
 
-[Ben Gvir](https://en.wikipedia.org/wiki/Itamar_Ben-Gvir) (Minister of National Security 2022) says: "(Spitting on christians) is an ancient Jewish custom". [Source][jekyll-docs]
+[Aryeh Eldad](https://web.archive.org/web/20230601222913/https://en.wikipedia.org/wiki/Aryeh_Eldad) (member of the Knesset 2003-2013) says: "I think the British are being hypocritical, and I do not wish to insult dogs here, since some dogs show true loyalty, [but] who gave the British the right to judge us on the war on terror?". [Source][jekyll-docs].
+On the same topic, [Michael Ben-Ari](https://web.archive.org/web/20230327114639/https://en.wikipedia.org/wiki/Michael_Ben-Ari) says: "Dogs are usually loyal, the British may be dogs, but they are not loyal to us.". [Source][jekyll-docs].
 
-[jekyll-docs]: https://web.archive.org/web/20231004183900/https://www.timesofisrael.com/5-arrested-for-spitting-at-christians-in-jerusalem-police-minister-its-not-criminal/
+[jekyll-docs]: https://web.archive.org/web/20100325014908/http://www.telegraph.co.uk/news/newstopics/politics/7506064/David-Miliband-Israeli-cloning-of-British-passports-was-intolerable.html
